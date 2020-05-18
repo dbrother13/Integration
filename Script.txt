@@ -1,10 +1,4 @@
 
-<<<<<<< HEAD
-**** Please remove this ERROR line. !!!! ****
-
-#123
-=======
->>>>>>> dev
 
 {
     "quiz": {
