@@ -1,6 +1,4 @@
 
-**** Please remove this ERROR line. !!!! ****
-
 
 {
     "quiz": {
