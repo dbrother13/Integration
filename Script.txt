@@ -1,4 +1,4 @@
- #123456 - this line was modified by developers while you are working on Integration.
+ #123456
 
 {
     "quiz": {
